@@ -3,7 +3,7 @@
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/brightnucleus/contracts/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/brightnucleus/contracts/?branch=master)
 [![Code Coverage](https://scrutinizer-ci.com/g/brightnucleus/contracts/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/brightnucleus/contracts/?branch=master)
 [![Build Status](https://scrutinizer-ci.com/g/brightnucleus/contracts/badges/build.png?b=master)](https://scrutinizer-ci.com/g/brightnucleus/contracts/build-status/master)
-[![Codacy Badge](https://api.codacy.com/project/badge/grade/a7cde09675204ef9a6ea00c9ab382f63)](https://www.codacy.com/app/BrightNucleus/contracts)
+[![Codacy Badge](https://api.codacy.com/project/badge/grade/1122bafb0b3940f58430979497eaec11)](https://www.codacy.com/app/BrightNucleus/contracts)
 [![Code Climate](https://codeclimate.com/github/brightnucleus/contracts/badges/gpa.svg)](https://codeclimate.com/github/brightnucleus/contracts)
 
 [![Latest Stable Version](https://poser.pugx.org/brightnucleus/contracts/v/stable)](https://packagist.org/packages/brightnucleus/contracts)
