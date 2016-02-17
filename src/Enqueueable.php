@@ -28,8 +28,6 @@ interface Enqueueable
      * @since 0.1.0
      *
      * @param mixed $args Optional. Arguments to pass to enqueue function.
-     *
-     * @return mixed
      */
     public function enqueue($args = null);
 }
